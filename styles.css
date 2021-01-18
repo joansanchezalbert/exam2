@@ -1,0 +1,53 @@
+body {
+    background-color: #f5deb3;
+}
+
+header {
+    text-align: center;
+}
+
+nav {
+    background-color: #87ceeb;
+    text-align: center;
+}
+
+article.artuno {
+    background-color: white;
+    color: blue;
+    
+}
+
+article.artdos {
+    background-color: #87ceeb ;
+}
+div.uno {
+    background-color: blue;
+}
+div.dos {
+    background-color: red;
+}
+
+img.imguno {
+    width: 150px;
+    height: 100px;
+    float: inline-start;
+}
+
+img.imgdos {
+    width: 120px;
+    height: 150px;
+    float: inline-end;
+}
+
+footer {
+    text-align: center;
+}
+
+article.arttres {
+    background-color: #adff2f;
+}
+
+div.amarillo {
+    background-color: yellow;
+    display: block;
+}
